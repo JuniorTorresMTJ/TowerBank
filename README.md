@@ -103,17 +103,11 @@ Qualquer feedback, elogio ou sugestão de melhoria eu ficaria muito grato!
 
 ### **BASES** <img width="30px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> 
 ***
-<!---
 
-*   **df_escolaridade** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por escolariadade por ano. <BR>
-*   **df_etária** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por faixa etária por ano. <BR>
-*   **df_raca** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por por raça. <BR>
-*   **df_sexo** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por sexo por ano.<BR>
-*   **df_sexualidade** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por orientação sexual e estado.<BR>
-*   **df_sex_evo** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por orientação sexual por ano.<BR>
-*   **df_gastos** = Conjunto de dados que possui os dados de quantidade de gastos em tratamento de HIV/AIDS por ano.
-*   **df_obitos** = Conjunto de dados que possui os dados de quantidade mortes com Tratamento de HIV/AIDS
--->
+* **df_clientes_cadastrados** = Conjunto de dados que possui o cadastro dos clientes e as informações dos clientes.<BR>
+* **df_clientes_aprovados** = Conjunto de dados que possui os clientes aprovados que receberam os créditos.<BR>
+* **dados_clientes_targets** = Conjunto de dados criado após a limpeza das bases dos clientes aprovados e cadastrados, para a criação da máquina preditiva.<BR>
+
 
 ### **CONTATO** <img width="30px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> 
 ***
@@ -143,13 +137,11 @@ Qualquer feedback, elogio ou sugestão de melhoria eu ficaria muito grato!
 
 ### **FONTES** <img width="30px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> 
 ***
-<!---
 
- <img width="20px" src="https://github.com/JuniorTorresMTJ/temp2/blob/main/img/Vacina.png" /> Alura: [Link](https://www.alura.com.br/)
+ <img width="20px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> Kaggle: [Link](https://www.kaggle.com/rikdifos/credit-card-approval-prediction)
 
-<img width="20px" src="https://github.com/JuniorTorresMTJ/temp2/blob/main/img/Vacina.png" /> Fonte dos Dados: [DATASUS](http://www2.datasus.gov.br/DATASUS/index.php?area=0202&id=11633&VObj=http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sih/cnv/qi)
+<img width="20px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> Dados: [Github](https://github.com/JuniorTorresMTJ/TowerBank/tree/main/dados)
 
-<img width="20px" src="https://github.com/JuniorTorresMTJ/temp2/blob/main/img/Vacina.png" /> Fonte dos Dados: [AIDS.GOV](http://www2.aids.gov.br/cgi/deftohtm.exe?tabnet/br.def)
--->
+
 
  
