@@ -5,7 +5,7 @@ Projeto de Análise de Crédito
 <img src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/TowerBankLog.png" min-width="300px" max-width="200px" width="750px" > 
 </p>
 <p align= "center">
-Aqui seu sonho é nossa torre, o nosso norte
+Aqui seu sonho é nossa torre, o nosso norte.
 </p>
  
 
