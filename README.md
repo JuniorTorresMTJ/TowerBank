@@ -4,80 +4,50 @@ Projeto de Análise de Crédito
 <p align= "center">
 <img src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/TowerBankLog.png" min-width="300px" max-width="200px" width="750px" > 
 </p>
+<p align= "center">
+Aqui seu sonho é nossa torre, o nosso norte
+</p>
  
 
 
 
 
-### **OBJETIVO** <img width="30px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> 
+### **OBJETIVO** <img width="15px" src="https://media2.giphy.com/media/d2c0m4RnbF4YN8fq6x/giphy.gif" /> 
 ***
 Esse projeto tem como o objetivo fazer a criação de um modelo que consiga prever se o cliente do TowerBank é um bom pagador ou não, assim disponibilizando crédito ou negando crédito.
-### **ESCOPO** <img width="30px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> 
-***
- <!---
 
-“Sabe quando as pessoas falam sobre *HIV*? Uma vez por ano, no Dia Mundial da Luta Contra a *Aids*”, resume a professora de inglês Aurea Carolina Coelho More, que convive com o vírus há mais de *12 anos*.
--->
-<!---
 <p align= "center">
-<img src="https://github.com/JuniorTorresMTJ/temp2/blob/main/img/Pic.gif" min-width="300px" max-width="200px" width="300px" >
-  
- <p align= "center">
-<img src="https://github.com/JuniorTorresMTJ/temp2/blob/main/img/virus%20faz.gif" min-width="300px" max-width="200px" width="300px" >
--->
-  <!---
+<img src="https://media0.giphy.com/media/pslSqGS8kv2Duh6gE1/giphy.gif" min-width="300px" max-width="200px" width="200px" >
+</p>
 
-Ouvir/ler deu positivo, dependendo do seu repertório,  suponho que você deve estar pensando que eu estou falando de gravidez né? Para muitos é uma benção e para outros um Deus me livre, mas não, mais ***900 mil*** pessoas vivem com ***HIV no Brasil*** e quando essas pessoas fizeram o teste elas ouviram: ***Deu Positivo***. 
-
-
-Você acha que ***HIV/AIDS*** está relacionado a homossexualidade? ou que atinge só homossexuais? nesse projeto quero desmistificar esse pensamento dos anos 80, igual a imagem acima, como também, mostrar a importância do SUS no tratamento dos portadores de ***HIV/AIDS do Brasil*** através de dados abertos.
-
-Vale ressaltar que o estudo foi realizado levando em consideração os ***números absolutos*** de novos casos de ***HIV/AIDS***, para esse estudo não foi analisado a ***proporção*** entre as populações, tendo em vista que analisando a ***proporção das populações*** seria a forma ***correta*** de analisar os dados. 
--->
- ### **SOBRE O PROJETO** <img width="30px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> 
+### **ESCOPO** <img width="15px" src="https://media2.giphy.com/media/d2c0m4RnbF4YN8fq6x/giphy.gif" /> 
+***
+ 
+ ### **SOBRE O TOWERBANK** <img width="15px" src="https://media2.giphy.com/media/d2c0m4RnbF4YN8fq6x/giphy.gif" />  
 ***
 TowerBank é um banco digital brasileiro atuando com cartões de crédito com operações no Brasil, sediada em São Paulo. Nascido com o propósito de ajudar todas as pessoas do mundo a alcançar seus sonhos, oferecendo serviços de qualidade e humanizados.
 Aqui seu sonho é nossa torre, o nosso norte, venha compartilhar seu sonho com a gente!
 
-<!---
+<p align= "center">
+<img src="https://media2.giphy.com/media/SlxcbR9kz2cnBiH8JK/giphy.gif" min-width="300px" max-width="200px" width="200px" >
+</p>
 
-[Projeto PIC](xxx)
+ ### **SOBRE O PROJETO** <img width="15px" src="https://media2.giphy.com/media/d2c0m4RnbF4YN8fq6x/giphy.gif" />  
+***
+O projeto foi dividido em 3 partes: 
 
-<div align = "left">
-O projeto está estruturado da seguinte forma: <br>
- 
-   * Objetivo
-   * Introdução
-      * SUS - Sistema Único de Saúde
-      * Dados Abertos
-      * AIDS = HIV?
-         * Indectável = Intransmissível
-         * Linha do tempo do HIV/AIDS
-   * Importação das Bibliotecas
-   * Carregamento das Bases
-   * Limpeza das Bases
-   * Levantamento de Hipóteses
-   * Criação das Visualizações
-   * Conclusão
-</div>
--->
+- Limpeza das Bases: [Link](https://github.com/JuniorTorresMTJ/TowerBank/blob/main/notebooks/TowerBank_Limpeza.ipynb)
+  <br>Remoção das colunas não utilizadas no modelo, junção das duas bases de dados, criação da variável target, remoção das linhas e limpeza das informações.
+- Análise Exploratória dos Dados: [Link]()
+  <br>
+- Criação do Modelo Preditivo: [Link](https://github.com/JuniorTorresMTJ/TowerBank/blob/main/notebooks/TowerBank_ML.ipynb)
+  <br> Pré - processamento dos dados, divisão do conjunto de dados em dados e teste, testagem dos modelos e avaliações. 
 
-### **HIPÓTESES** <img width="30px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> 
+### **Análise Exploratória** <img width="15px" src="https://media2.giphy.com/media/d2c0m4RnbF4YN8fq6x/giphy.gif" /> 
 ***
   
- <!---
 
-1.   Em 2019 teve mais casos de HIV em homossexuais do que em heterossexuais.
-2.   Na década de 90 os Homossexuais foram os que mais  adquiriram HIV/AIDS.
-3.   A maioria dos casos de HIV/AIDS são em pessoas pardas.
-4.   Os novos casos de HIV/AIDS ocorrem mais em pessoas com 1° a 4 ° série incompletas.
-5.   Pessoas do sexo masculino adquirem mais HIV que pessoas do sexo feminino.
-6.   Jovens de 20-34 anos são os que mais são contaminados pelos vírus do HIV.
-7.   Menos Pessoas morrem de AIDS comparando com a quantidade de óbitos em 2008.
-8.   Os gastos com o Tratamento de HIV/AIDS diminuiram 20% desde 2008.
--->
-
-### **CONCLUSÕES** <img width="30px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> 
+### **CONCLUSÕES** <img width="15px" src="https://media2.giphy.com/media/d2c0m4RnbF4YN8fq6x/giphy.gif" /> 
 ***
 <!---
 
@@ -87,13 +57,13 @@ Os homens sempre foram as maiores vítimas do ***HIV***, pois desde ***1980*** s
 Já analisando os dados pela faixa etária, vemos que o grande número de casos está entre ***20-49 anos***, é a fase da vida que a vida sexual se inicia e perdura por muito tempo ativa, onde se arriscam mais e ***não usam preservativos***. <br><br>
  Algo positivo de apontar é que temos menos mortes no tratamento do ***HIV/AIDS***, pois em ***2008*** tinhamos ***4381 mortes*** e já em ***2019 tivemos 3058 mortes***, uma diminuição em ***30%***, já os gastos com o tratamento de ***HIV/AIDS***, em 2008 para 2009 teve um grande aumento, mas nos últimos anos os ***gastos se manteve praticamente estáveis***, pois as pessoas soropositivas sempre terão o diagnóstico, pois ainda não temos a cura. <br><br>
 Portanto, graças ao ***SUS*** podemos ver que a os casos de ***HIV/AIDS*** vem ***diminuindo muito***, pois é um privilégio todos terem o direito ao ***tratamento e coquetéis*** de graça, fora outros ***tratamentos caros, vacinas, remédios, consultas etc***, pois pessoas de ***baixa renda*** não conseguiriam pagar por esses benefícios ou contratar um convênio. Então, só podemos agradecer e dizer:  **Viva ao SUS!**
-
+-->
 
 <p align= "center">
-<img src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/giphy%20(1).gif?raw=true" min-width="300px" max-width="200px" width="200px" >
+<img src="https://media2.giphy.com/media/QfiqHdfwglCcwJtlqb/giphy.gif" min-width="300px" max-width="200px" width="200px" >
 </p>
 
--->
+
 
 
 <p align= "left">
@@ -101,15 +71,19 @@ Qualquer feedback, elogio ou sugestão de melhoria eu ficaria muito grato!
 </p>
 
 
-### **BASES** <img width="30px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> 
+### **BASES** <img width="15px" src="https://media2.giphy.com/media/d2c0m4RnbF4YN8fq6x/giphy.gif" /> 
 ***
 
 * **df_clientes_cadastrados** = Conjunto de dados que possui o cadastro dos clientes e as informações dos clientes.<BR>
 * **df_clientes_aprovados** = Conjunto de dados que possui os clientes aprovados que receberam os créditos.<BR>
 * **dados_clientes_targets** = Conjunto de dados criado após a limpeza das bases dos clientes aprovados e cadastrados, para a criação da máquina preditiva.<BR>
 
+ <p align= "center">
+<img src="https://media3.giphy.com/media/26xBvE6JDLgzKEZCo/giphy.gif" min-width="300px" max-width="200px" width="200px" >
+</p>
+ 
 
-### **CONTATO** <img width="30px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> 
+### **CONTATO** <img width="15px" src="https://media2.giphy.com/media/d2c0m4RnbF4YN8fq6x/giphy.gif" /> 
 ***
 
 
@@ -135,13 +109,10 @@ Qualquer feedback, elogio ou sugestão de melhoria eu ficaria muito grato!
  </p>
 
 
-### **FONTES** <img width="30px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> 
+### **FONTES** <img width="15px" src="https://media2.giphy.com/media/d2c0m4RnbF4YN8fq6x/giphy.gif" /> 
 ***
 
  <img width="20px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> Kaggle: [Link](https://www.kaggle.com/rikdifos/credit-card-approval-prediction)
 
 <img width="20px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> Dados: [Github](https://github.com/JuniorTorresMTJ/TowerBank/tree/main/dados)
-
-
-
  
