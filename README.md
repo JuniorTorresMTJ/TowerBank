@@ -11,10 +11,7 @@ Projeto de Análise de Crédito
 
 ### **OBJETIVO** <img width="30px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> 
 ***
-<!---
-
-O objetivo desse projeto é a análisar os dados públicos da saúde, foi utilizado os dados de novos diagnósticos de HIV/ADIS no Brasil desde 1980.
--->
+Esse projeto tem como o objetivo fazer a criação de um modelo que consiga prever se o cliente do TowerBank é um bom pagador ou não, assim disponibilizando crédito ou negando crédito.
 ### **ESCOPO** <img width="30px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> 
 ***
  <!---
@@ -39,6 +36,9 @@ Vale ressaltar que o estudo foi realizado levando em consideração os ***númer
 -->
  ### **SOBRE O PROJETO** <img width="30px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/tower-block.png" /> 
 ***
+TowerBank é um banco digital brasileiro atuando com cartões de crédito com operações no Brasil, sediada em São Paulo. Nascido com o propósito de ajudar todas as pessoas do mundo a alcançar seus sonhos, oferecendo serviços de qualidade e humanizados.
+Aqui seu sonho é nossa torre, o nosso norte, venha compartilhar seu sonho com a gente!
+
 <!---
 
 [Projeto PIC](xxx)
