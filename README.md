@@ -72,7 +72,7 @@ O projeto foi dividido em 3 partes:
 
 
 <p align="center"> <a  href="https://www.linkedin.com/in/marivaldotorres/">
-    <img alt="Junior Torres" width="250px"  src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/Perfil.png" />
+    <img alt="Junior Torres" width="250px"  src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/Jr_Rosa.png" />
   </a>
  </p>
 
