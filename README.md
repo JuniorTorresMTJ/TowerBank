@@ -49,25 +49,9 @@ O projeto foi dividido em 3 partes:
 
 ### **CONCLUSÕES** <img width="15px" src="https://media2.giphy.com/media/d2c0m4RnbF4YN8fq6x/giphy.gif" /> 
 ***
-<!---
-
-Após toda a análise dos dados, podemos concluir que no ***começo*** houve um ***grande aumento*** nos casos ***HIV/AIDS***, mas desde meados de ***2013*** esse número de casos vem ***diminuindo graças*** a ***disponibilização do tratamento para todos***, vimos também que em ***2019*** o único estado brasileiro com ***mais casos*** em pessoas ***homossexuais*** do que em ***heterossexuais*** foi no ***Distrito Federal*** e em todos os anos desde 1990 os heteros são os que mais adquirem o diagnóstico de soropositivo, ***desconsideranto a proporção entre a popopulação hetero e a população homossexual***, apenas em valor absoluto. <br><br>
-Antes, os ***brancos*** eram o que mais contraiam o ***HIV/AIDS***, mas depois de ***2013*** esse cenário mudou, os ***pardos*** começaram a ter mais ***novos casos novos***. Outra mudança foi de mais casos em pessoas com o ***ensino médio completo***, antes tinham mais casos em ***ensino fundamental incompleto***, mostrando que a ***conscientização*** nas escolas não está o suficiente, precisamos de mais campanhas, palestras e ensinamentos nas escolas brasileiras. <br><br>
-Os homens sempre foram as maiores vítimas do ***HIV***, pois desde ***1980*** sempre foi o sexo que teve mais casos.  <br><br>
-Já analisando os dados pela faixa etária, vemos que o grande número de casos está entre ***20-49 anos***, é a fase da vida que a vida sexual se inicia e perdura por muito tempo ativa, onde se arriscam mais e ***não usam preservativos***. <br><br>
- Algo positivo de apontar é que temos menos mortes no tratamento do ***HIV/AIDS***, pois em ***2008*** tinhamos ***4381 mortes*** e já em ***2019 tivemos 3058 mortes***, uma diminuição em ***30%***, já os gastos com o tratamento de ***HIV/AIDS***, em 2008 para 2009 teve um grande aumento, mas nos últimos anos os ***gastos se manteve praticamente estáveis***, pois as pessoas soropositivas sempre terão o diagnóstico, pois ainda não temos a cura. <br><br>
-Portanto, graças ao ***SUS*** podemos ver que a os casos de ***HIV/AIDS*** vem ***diminuindo muito***, pois é um privilégio todos terem o direito ao ***tratamento e coquetéis*** de graça, fora outros ***tratamentos caros, vacinas, remédios, consultas etc***, pois pessoas de ***baixa renda*** não conseguiriam pagar por esses benefícios ou contratar um convênio. Então, só podemos agradecer e dizer:  **Viva ao SUS!**
--->
 
 <p align= "center">
 <img src="https://media2.giphy.com/media/QfiqHdfwglCcwJtlqb/giphy.gif" min-width="300px" max-width="200px" width="200px" >
-</p>
-
-
-
-
-<p align= "left">
-Qualquer feedback, elogio ou sugestão de melhoria eu ficaria muito grato!
 </p>
 
 
