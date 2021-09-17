@@ -53,11 +53,11 @@ def avaliar_mau(dict_respostas):
 st.image('img/TowerBankLog.png')
 st.write('<h1 style="text-align: center;">Avaliação de Crédito</h1><br>', unsafe_allow_html = True)
 
-my_expander_1 = st.beta_expander('Trabalho')
+my_expander_1 = st.beta_expander('Me conte mais sobre seu trabalho!')
 
-my_expander_2 = st.beta_expander("Pessoal")
+my_expander_2 = st.beta_expander("Me Fale mais sobre você!")
 
-my_expander_3 = st.beta_expander("Familia")
+my_expander_3 = st.beta_expander("Sua família não pode ficar de fora, né?")
 
 dict_respostas = {}
 lista_campos = load('objetos/lista_campos.joblib')
