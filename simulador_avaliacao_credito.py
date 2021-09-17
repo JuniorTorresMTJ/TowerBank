@@ -15,7 +15,7 @@ def aprovado():
     col5.write('<h1 style="text-align: center;color: HotPink">AEEEEEEEEEEEEE!!!!</h1><br>',
                unsafe_allow_html=True)
     col5.write('<h3 style="text-align: center;"><span style="color: HotPink">Parabéns!</span> você tem crédito aprovado com a gente! Que legal né?</h3><br>', unsafe_allow_html=True)
-    col5.image("img/eu-sou-rica.gif")
+    col5.write('<img style="text-align: center; margin-left: 70px;" src="https://raw.githubusercontent.com/JuniorTorresMTJ/TowerBank/main/img/eu-sou-rica.gif" width="300px"><br><hr>', unsafe_allow_html=True)
     st.write('Seria bom se fosse verdade né? Mas, isso é apenas um projeto de simulação de avaliação de crédito utilizando Machine Learning.')
     st.write(
         '<p style="text-align: center;"><b>Quer conhecer mais sobre projeto?</b><br> Acesse no Github: <a style="color: HotPink" target="_blank" href ="https://github.com/JuniorTorresMTJ/TowerBank">TowerBank</a><p>', unsafe_allow_html=True)
