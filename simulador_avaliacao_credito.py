@@ -21,6 +21,8 @@ def aprovado():
         '<p style="text-align: center;"><b>Quer conhecer mais sobre projeto?</b><br> Acesse no Github: <a style="color: HotPink" target="_blank" href ="https://github.com/JuniorTorresMTJ/TowerBank">TowerBank</a><p>', unsafe_allow_html=True)
     st.write(
         '<p style="text-align: center;"><b>Quer conhecer meus outros projetos?</b><br> Acesse no Github: <a style="color: HotPink" target="_blank" href ="https://github.com/JuniorTorresMTJ/">JuniorTorresMTJ</a><p>', unsafe_allow_html=True)
+    st.write(
+        '<p style="text-align: center;"><b>Me adicione no Linkedin!</b><br> Acesse: <a style="color: HotPink" target="_blank" href ="https://www.linkedin.com/in/marivaldotorres/">Meu Linkedin</a><p>', unsafe_allow_html=True)
     col7, col8, col9 = st.beta_columns([1, 1, 1])
     col8.write('<img style="text-align: center;" src="https://raw.githubusercontent.com/JuniorTorresMTJ/TowerBank/main/img/Jr_Rosa.png" width="200px"  >',
                unsafe_allow_html=True)
@@ -40,6 +42,8 @@ def negado():
         '<p style="text-align: center;"><b>Quer conhecer mais sobre projeto?</b><br> Acesse no Github: <a style="color: HotPink" target="_blank" href ="https://github.com/JuniorTorresMTJ/TowerBank">TowerBank</a><p>', unsafe_allow_html=True)
     st.write(
         '<p style="text-align: center;"><b>Quer conhecer meus outros projetos?</b><br> Acesse no Github: <a style="color: HotPink" target="_blank" href ="https://github.com/JuniorTorresMTJ/">JuniorTorresMTJ</a><p>', unsafe_allow_html=True)
+    st.write(
+        '<p style="text-align: center;"><b>Me adicione no Linkedin!</b><br> Acesse: <a style="color: HotPink" target="_blank" href ="https://www.linkedin.com/in/marivaldotorres/">Meu Linkedin</a><p>', unsafe_allow_html=True)
     col7, col8, col9 = st.beta_columns([1, 1, 1])
     col8.write('<img style="text-align: center;" src="https://raw.githubusercontent.com/JuniorTorresMTJ/TowerBank/main/img/Jr_Rosa.png" width="200px"  >',
                unsafe_allow_html=True)
@@ -88,7 +92,8 @@ st.write('<p style="text-align: center;"> Preencha suas informações nos formul
 st.write('<p> Serão 3 formulários:<br><ul><li>Perguntas sobre seu trabalho</li><li>Perguntas sobre você</li><li>Perguntas sobre sua família</li></ul></p>', unsafe_allow_html=True)
 
 st.write('<p style="text-align: center;"> Após preencher todas as informações, clique no botão <span style="color:hotpink">Avaliar Crédito</span>. Caso o crédito seja aprovado aparecerá uma mensagem na cor verde escrita<span style="color:lightgreen"><b> crédito aprovado</b></span>, caso contrário, aparecerá escrito <span style="color:crimson"><b> crédito negado </b></span> na cor vermelha. <br>Estamos torcendo por você!</p><hr>', unsafe_allow_html=True)
-st.write('<div style="text-align: center;" ><h2 style="color: HotPink">Formulários</h2></div><br>', unsafe_allow_html=True)
+st.write('<div style="text-align: center;" ><h2 style="color: HotPink">Formulários</h2></div><br>',
+         unsafe_allow_html=True)
 
 my_expander_1 = st.beta_expander('Me conte mais sobre seu trabalho!')
 
