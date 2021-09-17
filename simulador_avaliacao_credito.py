@@ -88,7 +88,7 @@ st.write('<p style="text-align: center;"> Preencha suas informações nos formul
 st.write('<p> Serão 3 formulários:<br><ul><li>Perguntas sobre seu trabalho</li><li>Perguntas sobre você</li><li>Perguntas sobre sua família</li></ul></p>', unsafe_allow_html=True)
 
 st.write('<p style="text-align: center;"> Após preencher todas as informações, clique no botão <span style="color:hotpink">Avaliar Crédito</span>. Caso o crédito seja aprovado aparecerá uma mensagem na cor verde escrita<span style="color:lightgreen"><b> crédito aprovado</b></span>, caso contrário, aparecerá escrito <span style="color:crimson"><b> crédito negado </b></span> na cor vermelha. <br>Estamos torcendo por você!</p><hr>', unsafe_allow_html=True)
-
+st.write('<div style="text-align: center;" ><h2 style="color: HotPink">Formulários</h2></div><br>', unsafe_allow_html=True)
 
 my_expander_1 = st.beta_expander('Me conte mais sobre seu trabalho!')
 
