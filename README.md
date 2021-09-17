@@ -7,6 +7,9 @@ Projeto de Análise de Crédito
 <p align= "center">
 Aqui seu sonho é nossa torre, o nosso norte.
 </p>
+<p align= "center">
+Para acessar o App <a href="https://share.streamlit.io/juniortorresmtj/towerbank/main/simulador_avaliacao_credito.py">Clique Aqui</a>
+</p>
  
 
 
@@ -78,17 +81,17 @@ O projeto foi dividido em 3 partes:
 
  <p align="center">
 <a  href="https://www.linkedin.com/in/marivaldotorres/">
-    <img align="center"alt="Junior Torres | Linkedin" width="24px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/linkedin.png" />
+    <img align="center"alt="Junior Torres | Linkedin" target="_blank" width="24px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/linkedin.png" />
   </a>
 
   <a href="https://www.instagram.com/juniortorres.py/">
-    <img align="center" alt="Junior Torres | Instagram" width="24px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/instagram.png" />
+    <img align="center" alt="Junior Torres | Instagram" target="_blank" width="24px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/instagram.png" />
   </a>
   <a href="mailto:juniortorres.mtj@gmail.com">
-    <img align="center" alt="Junior Torres | Gmail" width="26px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/gmail.png" />
+    <img align="center" alt="Junior Torres | Gmail" target="_blank" width="26px" src="https://github.com/JuniorTorresMTJ/TowerBank/blob/main/img/gmail.png" />
   </a>
   <a href="https://github.com/JuniorTorresMTJ">
-    <img align="center" alt="Junior Torres | Github" width="26px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/github.svg" />
+    <img align="center" alt="Junior Torres | Github" target="_blank" width="26px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/github.svg" />
   </a>
  </p>
 
