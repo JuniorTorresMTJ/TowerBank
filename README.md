@@ -37,14 +37,15 @@ Aqui seu sonho é nossa torre, o nosso norte, venha compartilhar seu sonho com a
 
  ### **SOBRE O PROJETO** <img width="15px" src="https://media2.giphy.com/media/d2c0m4RnbF4YN8fq6x/giphy.gif" />  
 ***
-O projeto foi dividido em 3 partes: 
+O projeto foi dividido em 4 partes: 
 
 - Limpeza das Bases: [Link](https://github.com/JuniorTorresMTJ/TowerBank/blob/main/notebooks/TowerBank_Limpeza.ipynb)
   <br>Remoção das colunas não utilizadas no modelo, junção das duas bases de dados, criação da variável target, remoção das linhas e limpeza das informações.
 - Análise Exploratória dos Dados: [Link]()
   <br>
 - Criação do Modelo Preditivo: [Link](https://github.com/JuniorTorresMTJ/TowerBank/blob/main/notebooks/TowerBank_ML.ipynb)
-  <br> Pré - processamento dos dados, divisão do conjunto de dados em dados e teste, testagem dos modelos e avaliações. 
+  <br> Pré - processamento dos dados, divisão do conjunto de dados em dados e teste, testagem dos modelos e avaliações.
+- Criação do App: [Link](https://share.streamlit.io/juniortorresmtj/towerbank/main/simulador_avaliacao_credito.py)
 
 ### **Análise Exploratória** <img width="15px" src="https://media2.giphy.com/media/d2c0m4RnbF4YN8fq6x/giphy.gif" /> 
 ***
