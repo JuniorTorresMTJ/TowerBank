@@ -17,7 +17,7 @@ Para acessar o App <a href="https://share.streamlit.io/juniortorresmtj/towerbank
 
 ### **OBJETIVO** <img width="15px" src="https://media2.giphy.com/media/d2c0m4RnbF4YN8fq6x/giphy.gif" /> 
 ***
-Esse projeto tem como o objetivo fazer a criação de um modelo que consiga prever se o cliente do TowerBank é um bom pagador ou não, assim disponibilizando crédito ou negando crédito.
+Esse projeto tem como o objetivo fazer a criação de um modelo que consiga prever se o cliente do TowerBank é um bom pagador ou não, assim disponibilizando crédito ou negando crédito, colocando em produção com o streamlit
 
 <p align= "center">
 <img src="https://media0.giphy.com/media/pslSqGS8kv2Duh6gE1/giphy.gif" min-width="300px" max-width="200px" width="200px" >
